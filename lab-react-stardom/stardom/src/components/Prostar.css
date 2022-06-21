@@ -1,0 +1,32 @@
+body{
+  background-color: blueviolet;
+}
+
+.stars{
+  margin: auto;
+  background-color: white;
+  border-collapse: collapse;
+  width: 800px;
+}
+stars, tr, td, th{
+  border: 1px solid rgb(163, 149, 149);
+  border-collapse: collapse;
+ 
+}
+th{
+  padding: 15px;
+}
+img{
+  width: 150px;
+}
+td{
+  padding-top: 10px;
+}
+.btn{
+  background-color: rgb(233, 0, 0);
+  padding: 5px;
+  border-radius: 2px;
+  color: white;
+  width: 100px;
+  
+}
